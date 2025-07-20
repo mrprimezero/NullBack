@@ -1,0 +1,6 @@
+/home/prime/Projects/NullBack/obj/Release/net8.0/win-x64/NullBack.csproj.AssemblyReference.cache
+/home/prime/Projects/NullBack/obj/Release/net8.0/win-x64/NullBack.GeneratedMSBuildEditorConfig.editorconfig
+/home/prime/Projects/NullBack/obj/Release/net8.0/win-x64/NullBack.AssemblyInfoInputs.cache
+/home/prime/Projects/NullBack/obj/Release/net8.0/win-x64/NullBack.AssemblyInfo.cs
+/home/prime/Projects/NullBack/obj/Release/net8.0/win-x64/NullBack.csproj.CoreCompileInputs.cache
+/home/prime/Projects/NullBack/obj/Release/net8.0/win-x64/NullBack.sourcelink.json
